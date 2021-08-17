@@ -1,4 +1,11 @@
-### Hi there 👋
+### Oi, Meu nome é Danilo, estudo Engenharia de Computação na UNIFEI Itabira e adoro desenvolver!!!
+
+- 🔭 Trabalhando atualmente com Desenvolvimento Frontend (Vuejs, Javascript)
+- 🌱 Estudando Inteligência Artificial
+- 💬 Dúvidas, ideias ou assuntos aleatórios é só chamar viu ...
+- 📫 Como me encontrar: danilopktcastro@gmail.com / danilocastro_09@outlook.com
+- ⚡ Fun fact: Pensa numa pessoa aleatória ...
+
 
 <!--
 **danilo-dcs/danilo-dcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
