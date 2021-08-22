@@ -1,4 +1,4 @@
-### Oi!!! Meu nome é Danilo, estudo Engenharia de Computação na UNIFEI Itabira e adoro desenvolver!!!
+### Oi!!! Meu nome é Danilo, estudo Engenharia de Computação e adoro desenvolver!!!
 
 - 🔭 Trabalhando atualmente com Desenvolvimento Frontend (Vuejs, Javascript)
 - 🌱 Estudando Inteligência Artificial
