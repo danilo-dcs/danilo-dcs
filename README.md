@@ -9,7 +9,7 @@
 ## 🌎 Me encontre
 
 <ul>
-  <li> <b> Linkedin: </b><a href="www.linkedin.com/in/danilo-de-castro-83b4b51a9"> danilo-de-castro </a></li>
+  <li> <b> Linkedin: </b><a href="www.linkedin.com/in/danilo-de-castro-83b4b51a9" target="_blank"> danilo-de-castro </a></li>
   <li> <b> E-mail: </b> <a> danilocastro_09@outlook.com </a> </li>
 </ul>
 
