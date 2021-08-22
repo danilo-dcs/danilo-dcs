@@ -1,10 +1,17 @@
-### Oi!!! Meu nome é Danilo, estudo Engenharia de Computação e adoro desenvolver!!!
+### Oi!!! Meu nome é Danilo e adoro desenvolver!!!
 
 - 🔭 Trabalhando atualmente com Desenvolvimento Frontend (Vuejs, Javascript)
 - 🌱 Estudando Inteligência Artificial
 - 💬 Dúvidas, ideias ou assuntos aleatórios é só chamar viu ...
-- 📫 Como me encontrar: danilopktcastro@gmail.com / danilocastro_09@outlook.com
 - ⚡ Fun fact: Pensa numa pessoa aleatória ...
+
+
+## 🌎 Me encontre
+
+<ul>
+  <li> <b> Linkedin: </b><a href="www.linkedin.com/in/danilo-de-castro-83b4b51a9"> danilo-de-castro </a></li>
+  <li> <b> E-mail: </b> <a href=""> danilocastro_09@outlook.com </a> </li>
+</ul>
 
 
 <!--
