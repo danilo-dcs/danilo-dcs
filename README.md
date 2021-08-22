@@ -13,11 +13,15 @@
   <li> <b> E-mail: </b> <a > danilocastro_09@outlook.com </a> </li>
 </ul>
 
-## 💁 Algumas infos
+## 💻 Linguagens e Tecnologias
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-dcs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⚡ Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilo-dcs&show_icons=true&theme=buefy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-dcs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
