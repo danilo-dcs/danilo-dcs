@@ -1,4 +1,4 @@
-## 👋 Oi!!! Meu nome é Danilo e adoro desenvolver!!!
+## 👋 Oi!!! Meu nome é Danilo !!!
 
 - 🔭 Trabalhando atualmente com Desenvolvimento Backend (NodeJS, Typescript)
 - 🌱 Estudando Inteligência Artificial/Data Science
